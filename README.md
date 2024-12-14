@@ -20,7 +20,10 @@ The netflixData DataFrame schema is printed, showing columns like title, genre, 
 The netflixData DataFrame is grouped by the "genre" column, and the count of rows for each genre is calculated. The top 20 genres with their counts are displayed, showing the frequency of each genre in the dataset.
 ![image](https://github.com/user-attachments/assets/5a1b0d43-4152-4554-a156-540e316a8add)
 
+displays a Scala code snippet that groups Netflix data by year, counts occurrences, and orders the results. The output table shows the year-wise distribution of records from 2014 to 2021.
 ![image](https://github.com/user-attachments/assets/f412f36a-4a9b-4c5d-8a67-f7470488bb1f)
+
+
 ![image](https://github.com/user-attachments/assets/8c653f5a-512b-4fb7-a76d-4ccac028f0c7)
 ![image](https://github.com/user-attachments/assets/3a161ee6-f935-4a31-9fab-b658c1d1ac73)
 ![image](https://github.com/user-attachments/assets/dac13b0d-3484-42cf-8af0-19ed44215ae4)
