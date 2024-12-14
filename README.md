@@ -23,9 +23,10 @@ The netflixData DataFrame is grouped by the "genre" column, and the count of row
 displays a Scala code snippet that groups Netflix data by year, counts occurrences, and orders the results. The output table shows the year-wise distribution of records from 2014 to 2021.
 ![image](https://github.com/user-attachments/assets/f412f36a-4a9b-4c5d-8a67-f7470488bb1f)
 
-The image shows a Scala code snippet that filters Netflix data for movies in the "Action" genre and displays the first 10 results. The output table includes details such as title, genre, language, IMDb score, premiere date, runtime, and year.
+It shows a Scala code snippet that filters Netflix data for movies in the "Action" genre and displays the first 10 results. The output table includes details such as title, genre, language, IMDb score, premiere date, runtime, and year.
 ![image](https://github.com/user-attachments/assets/8c653f5a-512b-4fb7-a76d-4ccac028f0c7)
 
+It shows a Scala code snippet that retrieves distinct genres that we can use from a Netflix dataset. The output table lists 20 unique genres, including "Comedy horror," "Thriller," "Romantic comedy," and "Adventure."
 ![image](https://github.com/user-attachments/assets/3a161ee6-f935-4a31-9fab-b658c1d1ac73)
 ![image](https://github.com/user-attachments/assets/dac13b0d-3484-42cf-8af0-19ed44215ae4)
 ![image](https://github.com/user-attachments/assets/07c331aa-0b7a-4579-ac11-74e403eef701)
