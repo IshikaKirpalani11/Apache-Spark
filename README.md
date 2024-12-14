@@ -34,6 +34,8 @@ It shows a Filtered Spark (Scala) table of Netflix movies from 2020 with columns
 
 It shows a Spark (Scala) query that groups Netflix data by the "year" column, counts the number of entries, and orders by year. The table displays years from 2014 to 2021 and their corresponding counts.
 ![image](https://github.com/user-attachments/assets/07c331aa-0b7a-4579-ac11-74e403eef701)
+
+It shows Spark (Scala) commands to write two datasets, actionMovies and yearCounts, as CSV files with headers to specified output directories on the local filesystem (C:/output/actionMovies and C:/output/yearCounts).
 ![image](https://github.com/user-attachments/assets/f49e7c7b-cc37-4483-8f07-07319700c3d1)
 
 
