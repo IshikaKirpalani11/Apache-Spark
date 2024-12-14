@@ -17,7 +17,9 @@ Displaying the First few fews to verify the data
 The netflixData DataFrame schema is printed, showing columns like title, genre, and IMDb score, with their data types. The total number of rows in the dataset is counted and displayed as 583.
 ![image](https://github.com/user-attachments/assets/03c956ec-074b-4038-9941-3b906e43d8a6)
 
+The netflixData DataFrame is grouped by the "genre" column, and the count of rows for each genre is calculated. The top 20 genres with their counts are displayed, showing the frequency of each genre in the dataset.
 ![image](https://github.com/user-attachments/assets/5a1b0d43-4152-4554-a156-540e316a8add)
+
 ![image](https://github.com/user-attachments/assets/f412f36a-4a9b-4c5d-8a67-f7470488bb1f)
 ![image](https://github.com/user-attachments/assets/8c653f5a-512b-4fb7-a76d-4ccac028f0c7)
 ![image](https://github.com/user-attachments/assets/3a161ee6-f935-4a31-9fab-b658c1d1ac73)
