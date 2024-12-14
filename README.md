@@ -14,8 +14,9 @@ Loading the Netflix dataset from my C drive
 Displaying the First few fews to verify the data
 ![image](https://github.com/user-attachments/assets/9356cc56-5352-44c4-bebb-b558af533c4c)
 
-
+The netflixData DataFrame schema is printed, showing columns like title, genre, and IMDb score, with their data types. The total number of rows in the dataset is counted and displayed as 583.
 ![image](https://github.com/user-attachments/assets/03c956ec-074b-4038-9941-3b906e43d8a6)
+
 ![image](https://github.com/user-attachments/assets/5a1b0d43-4152-4554-a156-540e316a8add)
 ![image](https://github.com/user-attachments/assets/f412f36a-4a9b-4c5d-8a67-f7470488bb1f)
 ![image](https://github.com/user-attachments/assets/8c653f5a-512b-4fb7-a76d-4ccac028f0c7)
